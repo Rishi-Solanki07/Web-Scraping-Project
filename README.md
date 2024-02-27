@@ -5,7 +5,7 @@ This project involves scraping data from the Netflix Top 10 Movies webpage and e
 
 # Tasks:
 
-**Web Scraping:** Extract data from the Netflix Top 10 Movies webpage using web scraping techniques.
+**Web Scraping:** Extract data from the [Netflix Top 10 Movies webpage](https://www.netflix.com/tudum/top10/) using web scraping techniques.
 
 **Export Data:** Save the extracted movie data into an Excel file (.xlsx).
 
