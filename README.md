@@ -28,7 +28,7 @@ This project involves scraping data from the Netflix Top 10 Movies webpage and e
 **Libraries:** Knowledge of BeautifulSoup for parsing HTML and pandas for data manipulation.
 
 # Skills Needed:
-Basic Understanding of HTML
+Understanding of HTML
 
 Web Scraping
 
