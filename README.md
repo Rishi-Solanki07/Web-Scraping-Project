@@ -29,10 +29,15 @@ This project involves scraping data from the Netflix Top 10 Movies webpage and e
 
 # Skills Needed:
 Basic Understanding of HTML
+
 Web Scraping
+
 BeautifulSoup
+
 Pandas
+
 Data Formatting
+
 Exported Data:
 
 **The exported Excel file containing the scraped movie data can be found [here](https://docs.google.com/spreadsheets/d/1oCW8QBurdS-cFiIcRh1lRSgPKOlAs_JO/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true).**
